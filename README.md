@@ -1,4 +1,4 @@
-# vue-docker-boilerplate
+# Vue.js Project Boilerplate using Docker
 
 ## Project setup
 ```
